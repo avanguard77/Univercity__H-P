@@ -1,0 +1,3 @@
+F:/projects/uni/cmake-build-debug/CMakeFiles/uni.dir
+F:/projects/uni/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/projects/uni/cmake-build-debug/CMakeFiles/rebuild_cache.dir

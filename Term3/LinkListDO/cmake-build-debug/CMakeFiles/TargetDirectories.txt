@@ -1,0 +1,3 @@
+D:/projects/uni/LinkListDO/cmake-build-debug/CMakeFiles/LinkListDO.dir
+D:/projects/uni/LinkListDO/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/uni/LinkListDO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
