@@ -1,0 +1,3 @@
+D:/projects/exercises/e42/cmake-build-debug/CMakeFiles/e42.dir
+D:/projects/exercises/e42/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/exercises/e42/cmake-build-debug/CMakeFiles/rebuild_cache.dir

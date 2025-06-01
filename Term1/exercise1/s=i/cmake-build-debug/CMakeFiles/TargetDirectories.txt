@@ -1,0 +1,3 @@
+D:/projects/exercise1/s=i/cmake-build-debug/CMakeFiles/s_i.dir
+D:/projects/exercise1/s=i/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/exercise1/s=i/cmake-build-debug/CMakeFiles/rebuild_cache.dir

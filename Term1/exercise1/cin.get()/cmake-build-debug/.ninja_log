@@ -1,0 +1,21 @@
+# ninja log v5
+0	640	7281691100492107	CMakeFiles/cin_get__.dir/main.cpp.obj	4eb0733f4266bb5c
+643	770	7281691101721769	cin_get__.exe	85784ad0adb1d5be
+3	1542	7281700520196580	CMakeFiles/cin_get__.dir/main.cpp.obj	4eb0733f4266bb5c
+1542	1703	7281700521750398	cin_get__.exe	85784ad0adb1d5be
+5	1095	7287581976152182	CMakeFiles/cin_get__.dir/main.cpp.obj	4eb0733f4266bb5c
+1096	1639	7287581981536371	cin_get__.exe	85784ad0adb1d5be
+3	567	7287582329395435	CMakeFiles/cin_get__.dir/main.cpp.obj	4eb0733f4266bb5c
+567	689	7287582330567892	cin_get__.exe	85784ad0adb1d5be
+4	565	7287582773566911	CMakeFiles/cin_get__.dir/main.cpp.obj	4eb0733f4266bb5c
+565	694	7287582774809761	cin_get__.exe	85784ad0adb1d5be
+3	528	7287582907298039	CMakeFiles/cin_get__.dir/main.cpp.obj	4eb0733f4266bb5c
+529	658	7287582908580405	cin_get__.exe	85784ad0adb1d5be
+3	750	7287584397671435	CMakeFiles/cin_get__.dir/main.cpp.obj	4eb0733f4266bb5c
+750	882	7287584398908251	cin_get__.exe	85784ad0adb1d5be
+3	555	7287584823969677	CMakeFiles/cin_get__.dir/main.cpp.obj	4eb0733f4266bb5c
+555	681	7287584825176815	cin_get__.exe	85784ad0adb1d5be
+3	521	7287585051994384	CMakeFiles/cin_get__.dir/main.cpp.obj	4eb0733f4266bb5c
+522	639	7287585053093307	cin_get__.exe	85784ad0adb1d5be
+3	553	7287585214833585	CMakeFiles/cin_get__.dir/main.cpp.obj	4eb0733f4266bb5c
+554	671	7287585215953204	cin_get__.exe	85784ad0adb1d5be

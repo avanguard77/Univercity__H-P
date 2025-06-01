@@ -1,0 +1,3 @@
+D:/projects/exercise1/2x+3(y+z)/cmake-build-debug/CMakeFiles/2x_3_y_z_.dir
+D:/projects/exercise1/2x+3(y+z)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/exercise1/2x+3(y+z)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

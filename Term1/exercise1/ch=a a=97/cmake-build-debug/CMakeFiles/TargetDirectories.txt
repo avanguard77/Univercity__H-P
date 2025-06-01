@@ -1,0 +1,3 @@
+D:/projects/exercise1/ch=a a=97/cmake-build-debug/CMakeFiles/ch_a_a_97.dir
+D:/projects/exercise1/ch=a a=97/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/exercise1/ch=a a=97/cmake-build-debug/CMakeFiles/rebuild_cache.dir

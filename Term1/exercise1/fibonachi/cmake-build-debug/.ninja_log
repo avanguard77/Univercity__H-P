@@ -1,0 +1,9 @@
+# ninja log v5
+0	798	7287589588542603	CMakeFiles/fibonachi.dir/main.cpp.obj	d0b6d9cc2747076f
+801	923	7287589589736553	fibonachi.exe	4639f02008f7bce6
+3	588	7287589983963045	CMakeFiles/fibonachi.dir/main.cpp.obj	d0b6d9cc2747076f
+589	721	7287589985234332	fibonachi.exe	4639f02008f7bce6
+3	620	7287590139050254	CMakeFiles/fibonachi.dir/main.cpp.obj	d0b6d9cc2747076f
+621	747	7287590140264697	fibonachi.exe	4639f02008f7bce6
+3	545	7287590233183806	CMakeFiles/fibonachi.dir/main.cpp.obj	d0b6d9cc2747076f
+545	680	7287590234441556	fibonachi.exe	4639f02008f7bce6
