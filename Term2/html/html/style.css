@@ -1,0 +1,19 @@
+
+h1:hover{
+    color: darkblue;
+    
+}
+h1:hover{
+    font-size: 3em;
+}
+h4:hover{
+    color: yellow;
+    
+}
+img {
+    transition: transform 1.2s ease-in-out;
+  }
+  
+  img:hover {
+    transform: scale(1.2);
+  }
